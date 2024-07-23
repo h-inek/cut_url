@@ -1,6 +1,6 @@
 ## Клонирование проекта
 Для клонирования проекта выполните следующие команды в терминале:
-```bash
+
 git clone https://github.com/h-inek/cut_url.git
 cd cut_url
 
